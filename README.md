@@ -1,3 +1,1 @@
 # Gingivitis-Detection
-
-
