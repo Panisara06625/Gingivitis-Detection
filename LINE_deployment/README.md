@@ -2,9 +2,11 @@
 
 ### Create new virtual environment
 ```
-python -m venv line-yolo-api-venv
+cd line-yolo-api
 ```
-
+```
+virtualenv line-yolo-api-venv
+```
 ### Activate the virtual environment
 
 * For Windows:
